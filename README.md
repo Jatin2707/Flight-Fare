@@ -59,28 +59,28 @@ Flights with "No Info" on Additional Services:
 
 1. Airline Pricing Strategies:
 
-(i) Premium airlines like Jet Airways Business have significantly higher fares (₹58,359 on average), while budget airlines like Trujet and SpiceJet offer the most affordable options (₹4,140 to ₹4,338).
-(ii)Jet Airways and Air India dominate the market in terms of flights and mid-range fares.
+ Premium airlines like Jet Airways Business have significantly higher fares (₹58,359 on average), while budget airlines like Trujet and SpiceJet offer the most affordable options (₹4,140 to ₹4,338).
+ Jet Airways and Air India dominate the market in terms of flights and mid-range fares.
 
 2. Impact of Stops on Pricing:
 
-(i) Direct flights are costlier, but they save time.
-(ii) More than 52% of flights have one stop, balancing affordability and travel duration.
+Direct flights are costlier, but they save time.
+More than 52% of flights have one stop, balancing affordability and travel duration.
 
 3. Popular Routes & Airports:
 
-(i) Delhi (42.47%) and Cochin (42.47%) are the busiest source and destination airports.
-(ii) High flight frequency on major routes results in competitive pricing.
+Delhi (42.47%) and Cochin (42.47%) are the busiest source and destination airports.
+High flight frequency on major routes results in competitive pricing.
 
 4. Booking Trends & Fare Variability:
 
-(i) Flight prices are highly dynamic, influenced by factors like seasonality, airline demand, and seat availability.
-(ii) Nearly 78% of flights lack additional information about special services like meals and baggage policies, affecting the transparency of pricing.
+Flight prices are highly dynamic, influenced by factors like seasonality, airline demand, and seat availability.
+Nearly 78% of flights lack additional information about special services like meals and baggage policies, affecting the transparency of pricing.
 
 5. Key Takeaways for Travelers & Airlines:
 
-(i) Travelers: Booking flights early and opting for indirect routes can help save costs.
-(ii) Airlines: Offering dynamic pricing strategies and improving fare transparency can boost customer trust.
+Travelers: Booking flights early and opting for indirect routes can help save costs.
+Airlines: Offering dynamic pricing strategies and improving fare transparency can boost customer trust.
 
 ### Final Thoughts:
 This analysis helps travelers make cost-effective decisions and allows airlines to optimize pricing strategies for higher revenue. Future improvements could involve predictive modeling using machine learning to forecast flight fares based on real-time trends.
