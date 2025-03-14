@@ -3,12 +3,12 @@ This project predicts flight ticket prices using machine learning techniques. It
 
 Tools & Technologies Used in This Project:
 
-Python: Used for data manipulation, analysis, and visualization.
-Pandas: To load, clean, and analyze the flight fare dataset.
-Matplotlib & Seaborn: For visualizing insights using charts and graphs.
-NumPy: For numerical computations and handling missing data.
-Jupyter Notebook: For interactive coding and data analysis.
-Excel: As a data source, providing structured flight fare information.
+1. Python: Used for data manipulation, analysis, and visualization.
+2. Pandas: To load, clean, and analyze the flight fare dataset.
+3. Matplotlib & Seaborn: For visualizing insights using charts and graphs.
+4. NumPy: For numerical computations and handling missing data.
+5. Jupyter Notebook: For interactive coding and data analysis.
+6. Excel: As a data source, providing structured flight fare information.
 
 Key Insights from Flight Fare Analysis 
 Flight Distribution by Airline:
