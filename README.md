@@ -1,7 +1,7 @@
 # Flight-Fare
 This project predicts flight ticket prices using machine learning techniques. It analyzes various factors like airline, source, destination, date, and duration to predict the fare.
 
-# Tools & Technologies Used in This Project:
+### Tools & Technologies Used in This Project:
 
 1. Python: Used for data manipulation, analysis, and visualization.
 2. Pandas: To load, clean, and analyze the flight fare dataset.
@@ -10,7 +10,7 @@ This project predicts flight ticket prices using machine learning techniques. It
 5. Jupyter Notebook: For interactive coding and data analysis.
 6. Excel: As a data source, providing structured flight fare information.
 
-# Key Insights from Flight Fare Analysis 
+### Key Insights from Flight Fare Analysis 
 Flight Distribution by Airline:
 
 1. Jet Airways: 36.03% (highest)
@@ -55,7 +55,7 @@ Flights with "No Info" on Additional Services:
 
 1. 78.11% of flights lack additional service details (e.g., meals, baggage policy).
 
-# Conclusion of the Flight Fare Analysis Project
+### Conclusion of the Flight Fare Analysis Project
 
 1. Airline Pricing Strategies:
 
@@ -82,5 +82,5 @@ Flights with "No Info" on Additional Services:
 (i) Travelers: Booking flights early and opting for indirect routes can help save costs.
 (ii) Airlines: Offering dynamic pricing strategies and improving fare transparency can boost customer trust.
 
-# Final Thoughts:
+### Final Thoughts:
 This analysis helps travelers make cost-effective decisions and allows airlines to optimize pricing strategies for higher revenue. Future improvements could involve predictive modeling using machine learning to forecast flight fares based on real-time trends.
